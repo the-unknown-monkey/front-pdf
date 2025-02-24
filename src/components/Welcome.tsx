@@ -28,7 +28,7 @@ const Welcome: React.FC<WelcomeProps> = ({ onClose }) => {
             Hi Sudarshan kamath 
           </h1>
           <p className="text-gray-600 text-lg mb-6">
-          I saw an upcoming feature, 'PDF to Voice,' on your website, so I thought, why not make one using your API? I'm not a pro developer, but I have late-night hackathon proficiency in everything. Who doesn’t love building things from 0 to 1? Now, this is another one for me .
+          I saw an upcoming feature, 'PDF to Voice,' on your website, so I thought, why not make one . I'm not a pro developer, but I have late-night hackathon proficiency in everything. Who doesn’t love building things from 0 to 1? Now, this is another one for me .Please add Node.js capabilities. Additionally, include a 'Notes' section clearly stating that Python 3.10 is supported and 3.13 is not. This will save users significant time.
           </p>
           <button
             onClick={onClose}
